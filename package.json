@@ -1,0 +1,24 @@
+{
+  "name": "sistema-gestao-doacoes",
+  "version": "1.0.0",
+  "description": "Sistema de Gestão de Doações Comunitárias",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigo16lima/sistema-gestao-doacoes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rodrigo16lima/sistema-gestao-doacoes/issues"
+  },
+  "homepage": "https://github.com/Rodrigo16lima/sistema-gestao-doacoes#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
